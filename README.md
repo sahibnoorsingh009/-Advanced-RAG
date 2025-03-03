@@ -12,23 +12,23 @@ Understand the journey of a query through RAG, from user input to the final gene
 Explore the intricate components that make up an advanced RAG system, from query construction to generation.
 ![Advanced RAG Components](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/Advanced%20RAG%20Components.png)
 
-### 02. Multi Query Retriever :
+### Multi Query Retriever :
 Get to grips with the Multi Query Retriever structure, which enhances the retrieval process by selecting the best responses from multiple sources.
 ![MQR](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/Multi%20Query%20Retriever.jpg)
 
-### 06. Self-Reflection-RAG :
+###Self-Reflection-RAG :
 ![self-Rag](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/self%20rag.png)
 
-### 07. Agentic RAG :
+### Agentic RAG :
 ![download](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/agentic%20rag.png)
 
-### 08. Adaptive Agentic RAG :
+### Adaptive Agentic RAG :
 ![adaptive_rag_agent](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/adaptive%20rag%20agent.png)
 
-### 09. Corrective Agentic RAG :
+### Corrective Agentic RAG :
 ![correctiveRAG](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/corrective%20rag.png)
 
-### 10. LLAMA 3 Agentic RAG Local:
+### LLAMA 3 Agentic RAG Local:
 ![LLAMA3_AGent](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/Llama3_Agent.png)
 
 ## 📚Notebooks Overview:
