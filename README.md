@@ -1,5 +1,4 @@
 # -Advanced-RAG
-# 🌟Advanced RAG💯💫🔥
 Advanced Retrieval-Augmented Generation (RAG) through practical notebooks, using the power of the Langchain, OpenAI GPTs ,META LLAMA3, Agents.
 Dive into the world of advanced language understanding with `Advanced_RAG`. These Python notebooks offer a guided tour of Retrieval-Augmented Generation (RAG) using the Langchain framework, perfect for enhancing Large Language Models (LLMs) with rich, contextual knowledge.
 
@@ -32,7 +31,7 @@ Get to grips with the Multi Query Retriever structure, which enhances the retrie
 ### 10. LLAMA 3 Agentic RAG Local:
 ![LLAMA3_AGent](https://github.com/GURPREETKAURJETHRA/Advanced_RAG/blob/main/img/Llama3_Agent.png)
 
-## 📚Notebooks Overview📝💫
+## 📚Notebooks Overview:
 Below is a detailed overview of each notebook present in this repository:
 
 - **01_Introduction_To_RAG.ipynb**
